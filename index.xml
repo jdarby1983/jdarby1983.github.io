@@ -38,9 +38,13 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+      <description>Hello World
+Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.
+Title Title Hello
+show ip int brief
+print (&amp;#34;Hello World&amp;#34;) </description>
     </item>
     
     <item>
